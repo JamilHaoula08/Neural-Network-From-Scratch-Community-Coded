@@ -1,4 +1,4 @@
-Neural Network From Scratch 
+Neural Network From Scratch,
 
 
 This repo starts with the simplest possible neural network and grows through community contributions. Whether you're a beginner or advanced — there's a level for you to add to.
